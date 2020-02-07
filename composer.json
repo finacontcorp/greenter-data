@@ -1,8 +1,9 @@
 {
-    "name": "greenterycam/data",
+    "name": "greenterfin/data",
     "description": "Store Documents for Greenter",
     "keywords": ["greenter"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Giancarlos Salas",
@@ -11,12 +12,16 @@
         {
             "name": "Yerson Campos",
             "email": "ycamposde@gmail.com"
+        },
+        {
+            "name": "Financontcorp",
+            "email": "appmanager@finacontcorp.com"
         }
     ],
-    "homepage": "https://github.com/ycamposde/greenter-data",
+    "homepage": "https://github.com/finacontcorp/greenter-data",
     "type": "library",
     "require": {
-        "greenterycam/core": "^7.0.1"
+        "greenterfin/core": "^1.0.0"
     },
 	"autoload": {
         "psr-4": {
